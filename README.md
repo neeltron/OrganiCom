@@ -10,6 +10,7 @@ Just a plant that tweets and emails when it needs water.
   <li>Open the location where the zip file for Arduino was downloaded, and unzip this folder to your desired location</li>
   <li>Start the Arduino IDE from the unzipped folder</li>
 </ol>
+
 ### Setup for NodeMCU:
 <ol>
   <li>Go to File>>Preferences and paste this url in additional Board Manager URLs: http://arduino.esp8266.com/stable/package_esp8266com_index.json</li>
