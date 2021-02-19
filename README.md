@@ -1,5 +1,6 @@
 # OrganiCom
-Just a plant that tweets and emails when it needs water.
+Just a plant that tweets @neeltron and emails (WIP) whenever it needs water.
+<br>More features like Nitrogen, etc., for soil analysis coming soon.
 
 # Installation
 
@@ -22,3 +23,5 @@ Just a plant that tweets and emails when it needs water.
 </ol>
 
 Clone this repository, choose the proper boards, check with the COM Ports and feel free to upload the code.
+<br>
+This project is inspired by Spinaches that can email, developed by MIT based scientists. (https://www.theguardian.com/food/2021/feb/03/spams-new-frontier-now-even-spinach-can-send-emails)
