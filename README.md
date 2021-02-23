@@ -1,6 +1,7 @@
 # OrganiCom
 Just a plant that tweets @neeltron and emails (WIP) whenever it needs water.
 <br>More features like Nitrogen, etc., for soil analysis coming soon.
+<br>Read More: https://neeltron.com/organicom-turn-your-plant-into-a-smart-one-to-a-level-that-it-starts-tweeting/
 
 # Installation
 
